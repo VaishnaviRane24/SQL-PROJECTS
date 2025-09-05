@@ -7,7 +7,7 @@ Create a normalized SQL schema for an e-commerce platform to manage customers, o
 
 ### Tools Used
 - MySQL Workbeach
-- ER diagram tool: dbdiagram.io 
+- ER diagram tool: dbdiagram.mwb
 
 ### Schema Overview
 - **Customers**: Personal and contact details.
@@ -33,7 +33,7 @@ Includes:
 - SQL schema (DDL)
 - Sample data (DML)
 - Query report
-- ER diagram (optional)
+- ER diagram 
 - Documentation (this README)
 
 ---
