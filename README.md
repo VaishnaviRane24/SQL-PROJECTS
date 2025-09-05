@@ -6,7 +6,7 @@
 Create a normalized SQL schema for an e-commerce platform to manage customers, orders, payments, and product inventory.
 
 ### Tools Used
-- MySQL Workbeach
+- MySQL Workbench
 - ER diagram tool: dbdiagram.mwb
 
 ### Schema Overview
@@ -44,7 +44,7 @@ Includes:
 Design a SQL backend to manage warehouse inventory, suppliers, and stock levels with automated alerts and stock transfer capabilities.
 
 ### Tools Used
-- MySQL Workbeach
+- MySQL Workbench
 
 ### Schema Overview
 - **Suppliers**: Stores supplier contact details.
