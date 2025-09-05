@@ -1,5 +1,43 @@
 # SQL-PROJECTS
 
+## Online Retail Sales Database
+
+### Objective
+Create a normalized SQL schema for an e-commerce platform to manage customers, orders, payments, and product inventory.
+
+### Tools Used
+- MySQL Workbeach
+- ER diagram tool: dbdiagram.io 
+
+### Schema Overview
+- **Customers**: Personal and contact details.
+- **Products**: Catalog with pricing and stock.
+- **Orders**: Tracks purchases and status.
+- **Order_Items**: Line items per order.
+- **Payments**: Payment method and amount per order.
+
+### Sample Data
+Includes:
+- 2 customers
+- 3 products
+- 2 orders with associated items
+- Payment records for each order
+
+### Key Queries
+- **Order Summary**: List orders with customer details.
+- **Order Details**: Show products per order.
+- **Sales Report**: Total units sold and revenue per product.
+- **Payment Summary**: Payment method and amount per order.
+
+### Deliverables
+- SQL schema (DDL)
+- Sample data (DML)
+- Query report
+- ER diagram (optional)
+- Documentation (this README)
+
+---
+
 ## Inventory & Warehouse Management System
 
 ### Objective
@@ -36,44 +74,6 @@ Includes entries for:
 - Sample data (DML)
 - Inventory queries
 - Trigger and stored procedure
-- Documentation (this README)
-
----
-
-## Online Retail Sales Database
-
-### Objective
-Create a normalized SQL schema for an e-commerce platform to manage customers, orders, payments, and product inventory.
-
-### Tools Used
-- MySQL Workbeach
-- ER diagram tool: dbdiagram.io 
-
-### Schema Overview
-- **Customers**: Personal and contact details.
-- **Products**: Catalog with pricing and stock.
-- **Orders**: Tracks purchases and status.
-- **Order_Items**: Line items per order.
-- **Payments**: Payment method and amount per order.
-
-### Sample Data
-Includes:
-- 2 customers
-- 3 products
-- 2 orders with associated items
-- Payment records for each order
-
-### Key Queries
-- **Order Summary**: List orders with customer details.
-- **Order Details**: Show products per order.
-- **Sales Report**: Total units sold and revenue per product.
-- **Payment Summary**: Payment method and amount per order.
-
-### Deliverables
-- SQL schema (DDL)
-- Sample data (DML)
-- Query report
-- ER diagram (optional)
 - Documentation (this README)
 
 ---
